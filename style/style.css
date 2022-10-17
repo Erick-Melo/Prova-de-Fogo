@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC&family=Orbitron:wght@500&family=Share&family=Source+Sans+Pro&display=swap');
+
+html,body {
+    background-color: rgb(135, 135, 135);
+}
+
+.col-8{
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+
+.col-2 img{
+    width: 100%;
+}
+
+.brand{
+    font-family: 'Orbitron', sans-serif;
+    color: #fff;
+    text-indent: 20px;
+}
